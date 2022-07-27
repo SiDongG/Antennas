@@ -1,6 +1,6 @@
 %% ECE4370 Visualization of Radiation Pattern
 %% Sidong Guo ECE4370 Radiation Pattern
-
+## MAT 
 %% U=sin^2(theta)
 clear, clc, close all 
 theta=linspace(-pi/2,pi/2);
